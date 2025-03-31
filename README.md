@@ -9,8 +9,7 @@ I use **Arch** 🐧 (BTW 😉).
 
 ## Skills
 ### Web Development
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
@@ -26,8 +25,7 @@ I use **Arch** 🐧 (BTW 😉).
 <img src="https://img.shields.io/badge/YOLO-red?style=for-the-badge&logo=opencv&logoColor=white" alt="YOLO">
 
 ### Blockchain
-<img src="https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=ethereum&logoColor=white" alt="Solidity">
-<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum">
+<img src="https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=ethereum&logoColor=white" alt="Solidity">    <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum">
 <img src="https://img.shields.io/badge/Solana-blue?style=for-the-badge&logo=solana&logoColor=white" alt="Solana">
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
 <!-- 
