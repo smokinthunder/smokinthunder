@@ -36,7 +36,8 @@ I use **Arch** 🐧 (BTW 😉).
 
 ## Open Source Contributions
 I’m passionate about contributing to open-source projects. So far, I’ve contributed to:
-- A Flutter package (details coming soon!)
+- A Flutter package 
+    [pub.dev](https://pub.dev/packages/scribble_with_timestamp)
 - More contributions planned for the future!
 
 ## Fun Facts
